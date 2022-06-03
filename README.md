@@ -45,3 +45,7 @@
 ### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{ratixdev}/count.svg)
 
+### Music
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/42si4ikg5dh732gPuQ0xHb?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
