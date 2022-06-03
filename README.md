@@ -41,6 +41,7 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/344/jenkins.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/344/elasticsearch.png"/>
 </p>
-#### Profile views counter
+
+### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{ratixdev}/count.svg)
 
