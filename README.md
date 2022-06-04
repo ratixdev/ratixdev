@@ -7,7 +7,7 @@
 
 - I'm a **Learner** | **Junior DevOps** 
 - About me : **DevOps Bootcamp** | **Fresh Graduate Academy Javascript with API**
-- Currently **Working as an Intern Backend Developer, Telkom Regional VI Kalimantan**
+- Currently **Working as an Backend Developer Intern, Telkom Regional VI Kalimantan**
 - Willing to contribute more and more in **Automation and Cloud Computing Related Projects**
 
 
